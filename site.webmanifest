@@ -1,0 +1,23 @@
+{
+    "name": "RR SPORTS",
+    "short_name": "RR SPORTS",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher8Og4_ctd16YSmWlgttLBMuBxgXpgf6RfNPEXD5z7dsj5KAqxwiHJ2Z-tFWtzsET6AFcUF9qfoLjYpPKOqZEuS_Ery85crJCXY_KWZkkWXq9pXpN1WyqJP3uMMJverdZ_2c0K_kV2kX1cBNFi7yEmYvrfeVhheBkVsR3eENOnnKdORULiakONzdG/s1600/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6kHgA0D4DojwlCZfZhaUByWJwtfFBS7oKnHB_niCc7g65-0favtNLl6shNBXiXF5qXaQTqDppJ90sqBMYpS0lyLKBcXWPBZKYpA56ikrgkzAl5YvxySobD1J6EV14G-FCG8_WD7AasKbpNTzEsgriV6M4wQRd8jzYIeaj-s1Z6HgZB2D3Cmni7fW6/s320/LOGO%20WEB%20RR.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#009cff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.app-tokosenapanangin.com"
+}
